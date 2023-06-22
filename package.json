@@ -1,0 +1,27 @@
+{
+  "name": "nodecrudsql",
+  "version": "1.0.0",
+  "description": "practice crud with node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "no",
+    "js",
+    "crud",
+    "mssql",
+    "rest",
+    "api"
+  ],
+  "author": "nekit",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mssql": "^9.1.1",
+    "sequelize": "^6.32.1",
+    "tedious": "^16.1.0"
+  }
+}
